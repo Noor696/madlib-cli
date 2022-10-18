@@ -21,4 +21,4 @@ run a file as a script
   - [Functions, json file ](./madlib_cli/madlib_Functions.py)
   - [Clases, json file ](./madlib_cli/madlib_Class.py)
 
-pull request link : https://github.com/Noor696/madlib-cli/pull/2
+pull request link : https://github.com/Noor696/madlib-cli/pull/3
